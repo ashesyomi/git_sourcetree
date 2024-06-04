@@ -1,0 +1,6 @@
+diff a/README.md.txt b/README.md.txt	(rejected hunks)
+@@ -1,2 +1,3 @@
+ # git_sourcetree
++## hotfix
+ This repository is test repository for SourceTree
+\ No newline at end of file
